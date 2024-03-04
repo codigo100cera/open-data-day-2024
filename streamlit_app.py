@@ -5,7 +5,7 @@ import plotly.express as px
 
 from pathlib import Path
 
-st.set_page_config(page_title='Open Data Day 2024', page_icon=':sunglasses:')
+st.set_page_config(page_title='Open Data Day 2024', page_icon=':sunglasses:', layout='wide')
 
 st.title('OPEN DATA DAY 2024')
 st.subheader('Meu Primeiro Dashboard :sunglasses:')
